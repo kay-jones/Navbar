@@ -1,0 +1,56 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-item: center;
+  background-color: aqua;
+  max-width: 1024px;
+  margin: auto;
+}
+.confused{
+  background-color: aqua;
+}
+/* first image with id tag or logo */
+#imagc{
+  width: 10%;
+  height: 10%;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+/* second image with a class attribute */
+body{
+  background-color: green;
+  
+}
+.speed{
+height: 270px;
+width: 300px;
+ vertical-align: middle;
+ justify-content: space-between;
+
+
+}
+.main{
+  display: flex;
+  justify-content: space-between;
+  align-item: center;
+  max-width: 1024px;
+  background-color: red;
+  margin: auto;
+}
+/* write up styling */
+.textt{
+  padding-left: 10%;
+  text-align: center;
+
+
+
+}
+button{
+  padding: 4px;
+}
